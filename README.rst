@@ -5,27 +5,37 @@ Atlas block library
 -----------
 Description
 -----------
-Simplified isometric blocks to help visualize network topologies, deployment strategies, etc.
+Infographics have become an extremely important for any project, so this library was created with an intention to simplify the creation of nice looking diagrams.
 
-Initially created by `AterLeo`_
+| If a diagram is worth 1000 words, then it’s worth 1000 words of our attention.
+| -- Edward Tufte
 
-.. _AterLeo: http://leo-tvorit.lj.ru
+The library provides simplified isometric blocks to help visualize software architectures, network topologies, deployment strategies, etc.
 
 --------
 Features
 --------
 - modular design
 - basic shapes and colors
+- various connectors and arrows
+- proper text placement
 
-.. image:: http://renat.in.ua/image/github/atlas-blocks-01.png
+.. image:: doc/images/atlas-blocks-01.png?raw=true
    :align: center
 
 -------
 Library content
 -------
+The library provides all buidlding blocks in various colors in order to simplify the creationg of a distinct diagrams.
 
-.. image:: http://renat.in.ua/image/github/atlas-blocks-02.png
+.. image:: doc/images/atlas-blocks-02.png?raw=true
    :align: center
+
+All elements were created with `Inkscape`_
+
+.. _Inkscape: https://inkscape.org/en/
+
+> Inkscape is professional quality vector graphics software which runs on Windows, Mac OS X and GNU/Linux. It is used by design professionals and hobbyists worldwide, for creating a wide variety of graphics such as illustrations, icons, logos, diagrams, maps and web graphics. Inkscape uses the W3C open standard SVG (Scalable Vector Graphics) as its native format, and is free and open-source software.
 
 -------
 License
