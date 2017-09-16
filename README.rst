@@ -8,7 +8,6 @@ Description
 Infographics have become an extremely important for any project, so this library was created with an intention to simplify the creation of nice looking diagrams.
 
  | If a diagram is worth 1000 words, then it’s worth 1000 words of our attention.
- | 
  | -- Edward Tufte
 
 The library provides simplified isometric blocks to help visualize software architectures, network topologies, deployment strategies, etc.
