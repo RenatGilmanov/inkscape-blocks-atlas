@@ -7,8 +7,9 @@ Description
 -----------
 Infographics have become an extremely important for any project, so this library was created with an intention to simplify the creation of nice looking diagrams.
 
-| If a diagram is worth 1000 words, then it’s worth 1000 words of our attention.
-| -- Edward Tufte
+ | If a diagram is worth 1000 words, then it’s worth 1000 words of our attention.
+ | 
+ | -- Edward Tufte
 
 The library provides simplified isometric blocks to help visualize software architectures, network topologies, deployment strategies, etc.
 
@@ -35,7 +36,7 @@ All elements were created with `Inkscape`_
 
 .. _Inkscape: https://inkscape.org/en/
 
-> Inkscape is professional quality vector graphics software which runs on Windows, Mac OS X and GNU/Linux. It is used by design professionals and hobbyists worldwide, for creating a wide variety of graphics such as illustrations, icons, logos, diagrams, maps and web graphics. Inkscape uses the W3C open standard SVG (Scalable Vector Graphics) as its native format, and is free and open-source software.
+ > Inkscape is professional quality vector graphics software which runs on Windows, Mac OS X and GNU/Linux. It is used by design professionals and hobbyists worldwide, for creating a wide variety of graphics such as illustrations, icons, logos, diagrams, maps and web graphics. Inkscape uses the W3C open standard SVG (Scalable Vector Graphics) as its native format, and is free and open-source software.
 
 -------
 License
