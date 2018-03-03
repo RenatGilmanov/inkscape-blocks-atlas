@@ -1,5 +1,5 @@
 ============================
-Atlas block library
+Atlas Block Library
 ============================
 
 -----------
@@ -19,6 +19,7 @@ Features
 - basic shapes and colors
 - various connectors and arrows
 - proper text placement
+- easy to manage and customize
 
 .. image:: doc/images/atlas-blocks-01.png?raw=true
    :align: center
@@ -26,7 +27,7 @@ Features
 -------
 Library content
 -------
-The library provides all buidlding blocks in various colors in order to simplify the creationg of a distinct diagrams.
+The library provides all buiding blocks in various colors in order to simplify the creationg of a distinct diagrams.
 
 .. image:: doc/images/atlas-blocks-02.png?raw=true
    :align: center
