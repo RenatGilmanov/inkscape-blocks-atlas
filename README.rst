@@ -20,7 +20,7 @@ Features
 - various connectors and arrows
 - proper text placement
 
-.. image:: doc/doc/images/atlas-blocks-01.png?raw=true
+.. image:: doc/images/atlas-blocks-01.png?raw=true
    :align: center
 
 -------
